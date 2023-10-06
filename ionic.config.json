@@ -1,0 +1,7 @@
+{
+  "name": "pubsed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
